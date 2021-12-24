@@ -70,3 +70,5 @@ código.
 ## ✒️ Autores
 
 * **Thiago Emanuel** - *Trabalho Inicial* - [thgemanuel](https://github.com/thgemanuel)
+* **Gabriel Henrique** - *Trabalho Inicial* - [GabrielHVM](https://github.com/GabrielHVM)
+
